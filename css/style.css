@@ -1,0 +1,41 @@
+.sec {
+  justify-content: center;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+.flexbox {
+  justify-content: center;
+  display: flex;
+  align-items: center;
+  margin: 0;
+  flex-direction: column;
+  border: solid black 1px;
+  width: 400px;
+}
+
+.flexbox h1 {
+  margin: 15px 0 0 0;
+}
+
+.numberone {
+  margin-top: 15px;
+  border-radius: 2px;
+  padding-left: 5px;
+  border: solid 1px;
+  text-align: center;
+  outline: none;
+  width: 100px;
+}
+
+.confirm {
+  margin-top: 15px;
+  margin-bottom: 10px;
+}
+
+.message {
+  font-style: normal;
+  font-size: 15px;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
